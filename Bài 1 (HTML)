@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Đây là tiêu đề</title>
+</head>
+<body>
+    đây là nội dung
+    <br/>
+    <p>
+    <i>    
+        Chia sẻ với báo chí trưa 11/9, ông Mai Văn Khiêm, <u>Giám đốc Trung tâm Dự báo Khí tượng Thủy văn quốc gia</u>, cho biết mưa ở miền Bắc đang có xu thế giảm so với hai ngày trước. Mưa tập trung ở đồng bằng và Đông Bắc bộ, Bắc Trung Bộ, dự báo sau ngày 12/9 sẽ giảm.
+    </i>
+    <br/>
+        <b>Hà Nội nằm ở hạ du các con sông lớn như sông Hồng, Đà.</b> Ngoài ra, thành phố còn có nhiều sông khác chảy qua như Đáy, Đuống, Cầu, Cà Lồ, nội thành có sông Tô Lịch, Kim Ngưu, Lừ, Sét. Nước lũ ở Hà Nội phụ thuộc vào dòng chảy các sông trên.
+    </p> 
+</body>
+</html>
